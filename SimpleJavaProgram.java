@@ -2,6 +2,7 @@ public class SimpleJavaProgram {
     
     public static void main(String[] args)
     {
-        System.out.println("Hello, Welcome to Jenkins Demo");
+        System.out.println("Hello, Welcome to Jenkins Modified Job");
     }
+
 }
